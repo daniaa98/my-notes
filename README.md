@@ -16,7 +16,7 @@ Hellow, my name is Dania . I am civil engineering,<br> I enjoy design and coding
 - Watching series
 
 ## **To communicate**
-![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnmLnwFi0XngcUh-tj19Zk1cPyr_XWz5xNRg&usqp=CAU)
+![Alt Text](https://www.figma.com/file/kAU4lRZ2vnybLz2XAZvPer/Diagram---Untitled?type=whiteboard&node-id=1-2&t=D3dwfuzZPJFBuIPL-4)
 
 https://instagram.com/dania.arq?igshid=ZDdkNTZiNTM=
 
